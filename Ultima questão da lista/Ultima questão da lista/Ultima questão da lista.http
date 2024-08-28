@@ -1,0 +1,6 @@
+@Ultima_questão_da_lista_HostAddress = http://localhost:5081
+
+GET {{Ultima_questão_da_lista_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
